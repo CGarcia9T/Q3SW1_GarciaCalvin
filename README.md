@@ -5,4 +5,4 @@
       Repository: Q3-SW1
       HTML Filename: index.html
       External CSS: style.css
-3. Submit your ✔REPO and ✔GitHub page links through the OB Digital Platform.
+3. Submit your REPO and GitHub page links through the OB Digital Platform.
