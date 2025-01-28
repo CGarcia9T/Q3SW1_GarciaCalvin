@@ -1,0 +1,33 @@
+#sub {
+	text-align: center;
+	background-color: #403D39;
+	color: #FFFCF2;
+	border-radius: 10px;
+}
+
+#main {
+	text-align: center;
+	background-color: #CCC5B9;
+	color: #252422;
+	border-radius: 25px;
+	width: 35%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#body {
+	background-color: #252422;
+}
+
+#footer {
+	text-align: center;
+	background-color: #CCC5B9;
+	color: #252422;
+}
+
+#button {
+	width: 100px;
+	background-color: #403D39;
+	border-color: #403D39;;
+	color: #FFFCF2;
+}
